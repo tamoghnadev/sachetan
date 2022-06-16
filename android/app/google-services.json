@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862016709898",
+    "project_id": "sachetan-dad61",
+    "storage_bucket": "sachetan-dad61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862016709898:android:175ede9fa3af8a2fc9c6f3",
+        "android_client_info": {
+          "package_name": "com.sslvibes.mticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862016709898-dqodi40ib1er73lf58j0v3n7j6lpo5u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_mR1cKHUsdB-Q-41JfyN-stLzz-Olt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862016709898-dqodi40ib1er73lf58j0v3n7j6lpo5u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
